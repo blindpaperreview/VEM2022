@@ -7,5 +7,19 @@ Continuous Integration (CI) is a powerful tool to leverage software development 
 
 | Artifact  |  Description  |
 | ------------------- | ------------------- |
-|  Célula de conteúdo |  Célula de conteúdo |
-|  Célula de conteúdo |  Célula de conteúdo |
+|  [S1 - Before CI](artifacts/s1-before-ci.csv) | Values of the internal attributes of S1 before CI implementation |
+|  [S1 - After CI](artifacts/s1-after-ci.csv) | Values of the internal attributes of S1 after CI implementation |
+|  [S2 - Before CI](artifacts/s2-before-ci.csv) | Values of the internal attributes of S2 before CI implementation |
+|  [S2 - After CI](artifacts/s2-after-ci.csv) | Values of the internal attributes of S2 after CI implementation |
+|  [S4 - Before CI](artifacts/s4-before-ci.csv) | Values of the internal attributes of S4 before CI implementation |
+|  [S4 - After CI](artifacts/s4-after-ci.csv) | Values of the internal attributes of S4 after CI implementation |
+|  [S6 - Before CI](artifacts/s6-before-ci.csv) | Values of the internal attributes of S6 before CI implementation |
+|  [S6 - After CI](artifacts/s6-after-ci.csv) | Values of the internal attributes of S6 after CI implementation |
+|  [S8 - Before CI](artifacts/s8-before-ci.csv) | Values of the internal attributes of S8 before CI implementation |
+|  [S8 - After CI](artifacts/s8-after-ci.csv) | Values of the internal attributes of S8 after CI implementation |
+|  [Main Python File](artifacts/main.py) | Main file of the python script for collecting the quality indicators |
+|  [Calc Python File](artifacts/calc.py) | File responsible for calculating the values of the quality indicators |
+|  [Questionnaire Answers](artifacts/answers.csv) | Raw values of the answers from the members of the development teams of the analyzed systems |
+|  [Impact on Quality Indicators](artifacts/quality-indicators-impact.csv) | Summary of the analysis of the impact of CI bad practices on quality indicators |
+|  [Resolution Difficulty](artifacts/resolution-difficulty.csv) | Summary of the analysis of difficulty in resolving CI bad practices |
+|  [Impact versus Resolution Difficulty](artifacts/impact-vs-difficulty.csv) | Summary of the CI bad practice resolution prioritization analysis based on impact and difficulty of resolution |
